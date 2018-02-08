@@ -1,2 +1,0 @@
-# aviral
-team aviral @github
